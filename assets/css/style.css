@@ -814,7 +814,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  column-gap: 12px;
+  column-gap: 20px;
   border-block-start: 1px solid var(--outline);
 }
 
