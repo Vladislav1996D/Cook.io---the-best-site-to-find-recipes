@@ -1268,3 +1268,13 @@ main {
 .detail-content-skeleton .filter-ship-skeleton {
   width: 80px;
 }
+
+/* Saved Recipe Page */
+
+.saved-recipe-page {
+  padding-block-end: 24px;
+}
+
+.saved-recipe-page .section-title {
+  line-height: 40px;
+}
